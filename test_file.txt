@@ -10,3 +10,8 @@ added the new line
 
 Line 1
 Line 2
+
+Line 3
+Line 4
+
+Adding some content that I will commit and then revert
