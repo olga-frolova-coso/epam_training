@@ -8,4 +8,12 @@
 \f0\fs24 \cf0 Some txt file updated}
 added the new line
 
+Line 1
+Line 2
 
+Line 3
+Line 4
+
+Adding some content that I will commit and then revert
+
+Adding new lines
