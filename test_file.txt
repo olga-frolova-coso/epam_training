@@ -12,3 +12,5 @@ added the new line
 
 Removed some lines from feature branch
 
+Line 3
+Line 4
