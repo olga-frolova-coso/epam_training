@@ -8,4 +8,9 @@
 \f0\fs24 \cf0 Some txt file updated}
 added the new line
 
+----------------------------------
+
+Feature branch:
+Line 1
+Line 2
 
